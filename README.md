@@ -1,7 +1,7 @@
 
 ---
 
-# 📦 Franchise Auction System (Solidity + NFT)
+# 📦 PCB CLUB (Franchise Auction System)
 
 A fully on-chain auction system where franchises are sold via bidding and minted as NFTs to winning bidders. 
 

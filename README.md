@@ -3,7 +3,7 @@
 
 # 📦 Franchise Auction System (Solidity + NFT)
 
-A fully on-chain auction system where franchises are sold via bidding and minted as NFTs to winning bidders. Built with Solidity ^0.8.20 and OpenZeppelin security standards.
+A fully on-chain auction system where franchises are sold via bidding and minted as NFTs to winning bidders. 
 
 ---
 
